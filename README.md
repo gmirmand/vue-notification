@@ -1,20 +1,18 @@
-<p align="right">
-  <a href="https://www.buymeacoffee.com/yev" target="_blank">
-  <img width="200" alt="screen shot 2018-03-01 at 10 33 39" src="https://user-images.githubusercontent.com/1577802/36840220-21beb89c-1d3c-11e8-98a4-45fc334842cf.png">
-  </a>
-</p>
+# gmirmand/vue-notification
 
-[![npm version](https://badge.fury.io/js/vue-notification.svg)](https://badge.fury.io/js/vue-notification)
-[![npm](https://img.shields.io/npm/dm/vue-notification.svg)](https://www.npmjs.com/package/vue-notification)
-
-# Vue.js notifications
+Vue.js<2.X.X> Notification Library
 
 <p align="center">
   <img src="https://media.giphy.com/media/xUn3C6FmbGmszMem64/giphy.gif">
 </p>
 
-## Demo
+# Authorship and Contribution
+Originally developed by Euvl.  
+Updated by gmirmand.  
+  
+**I won't be able to maintain this project. But I will be happy to accept pull requests.**
 
+## Demo
 
 - http://vue-notification.yev.io/
 
@@ -22,7 +20,7 @@
 
 
 ```bash
-npm install --save vue-notification
+npm install --save @gmirmand/vue-notification
 ```
 
 Add dependencies to your `main.js`:
